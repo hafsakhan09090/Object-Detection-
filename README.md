@@ -11,7 +11,6 @@ A real-time object detection system with weapon detection capabilities built usi
 - 🗑️ Clear dashboard functionality
 
 ## Installation
-1. Clone the repository:
 ```bash
 git clone https://github.com/hafsakhan09090/YOLO-Object-Detector.git
 cd YOLO-Object-Detector
